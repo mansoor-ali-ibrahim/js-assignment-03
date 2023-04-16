@@ -1,3 +1,10 @@
+/*
+    Mansoor Ali Ibrahim
+    JavaScript Crash Course
+    Assignment # 3
+    JS-124461
+*/
+
 // IIFE Immediately invoked function Expressions
 (async function () {
 const response = await fetch("./data.json");
